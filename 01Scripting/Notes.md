@@ -4,7 +4,6 @@
 	- use arrow keys to see history of previously use commands
 	- history -> gives a track of all commands you have used in the current session
 - `cd ./ tab key` -> gives the auto-completion of the file/directory
-- `pwd` -> print where directory
 - `ls` -> list all the files and directories
 - `mkdir 'directory name'` -> make directory
 - `touch 'file name.extension'` -> creates a file
@@ -15,3 +14,4 @@
 - `git push` -> push changes to git server
 - `git status` -> see the new tracks/ changes made in local workspace
 - `git pull` -> retrieve changes from the git server (updates your workspace with latest code)
+- `pwd` -> print where directory
