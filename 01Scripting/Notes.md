@@ -8,8 +8,8 @@
 - `mkdir 'directory name'` -> make directory
 - `touch 'file name.extension'` -> creates a file
 - `git clone 'url'` -> adds the local workspace in your machine
-- `git add "filename"` -> adds the file you target to add to git
-- `git add .` -> adds all the file
+- `git add` -> adds the file you target to add to git
+- `git add -A` -> adds all the file
 - `git commit -m 'message'` -> Stage changes and commit to git as a new node
 - `git push` -> push changes to git server
 - `git status` -> see the new tracks/ changes made in local workspace
@@ -35,3 +35,22 @@
 ## Shell File Management
 - `ls`  - listing files
 - `ls -l` - get more information about the listed files
+- `ls 2107*` - listing using metacharacters
+
+
+## Shell Scripting 
+- Bourne Shell, C-Shell, Powershell etc...
+- A computer program which is a command line interpreter.
+- A shell script includes operations to be performed like file manipulation, program execution and priting text.
+- A shell has an extension .sh
+- BASH - Bourne Again Shell
+
+## Variables 
+- A memory block to hold a value.
+- There are 2 types of variables that are created in Shell:
+	- **System variables** : Predefined variables by BASH, maanged by Shell/OS and they are Created in UPPERCASE.
+	- Ex - $BASH, $BASH_VERSION, $HOME, $PWD
+
+	- **User Defined (UDF) Variables**
+	- A-Z, a-z, 0-9, _
+	- A variable name should either start with an alphbet or _
