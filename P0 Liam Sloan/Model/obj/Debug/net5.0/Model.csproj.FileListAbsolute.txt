@@ -1,0 +1,15 @@
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\bin\Debug\net5.0\Model.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\bin\Debug\net5.0\ref\Model.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache

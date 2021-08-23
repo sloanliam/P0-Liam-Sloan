@@ -1,0 +1,15 @@
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\bin\Debug\net5.0\Controller.deps.json
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\bin\Debug\net5.0\Controller.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\bin\Debug\net5.0\ref\Controller.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\bin\Debug\net5.0\Controller.pdb
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\bin\Debug\net5.0\Model.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\bin\Debug\net5.0\Model.pdb
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.csproj.AssemblyReference.cache
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.AssemblyInfoInputs.cache
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.AssemblyInfo.cs
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.csproj.CopyComplete
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\ref\Controller.dll
+C:\Users\sloan\Desktop\Projects\New Proj0 Rest\Controller\obj\Debug\net5.0\Controller.pdb
